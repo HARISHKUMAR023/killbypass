@@ -1,4 +1,4 @@
-# KillBypass
+# KillBypass by Harishkumar N
 
 KillBypass is a brute force tool designed for educational purposes. It allows you to perform attacks on specified URLs with a given username and a list of passwords.
 
